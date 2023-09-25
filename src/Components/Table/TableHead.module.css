@@ -1,0 +1,15 @@
+.tableHead {
+    text-align: left;
+}
+
+tr {
+    border: 1px rgb(223, 223, 223) solid;
+    height: 40px;
+}
+th, td{
+    margin-top: auto;
+    min-width: 10px;
+    padding-left: 5px;
+    text-align: left;
+    background-color: rgb(253, 253, 253);
+}

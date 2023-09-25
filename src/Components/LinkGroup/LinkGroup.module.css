@@ -1,0 +1,8 @@
+.group {
+    height: 0px;
+    overflow: hidden;
+}
+
+.active {
+    height: auto;
+}
